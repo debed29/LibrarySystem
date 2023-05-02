@@ -144,7 +144,7 @@ public class ReaderSignIn extends main {
             System.out.println(e);
         }
     }//GEN-LAST:event_btnConfirmActionPerformed
-
+//nig
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btnBack;
     private javax.swing.JButton btnClear;
